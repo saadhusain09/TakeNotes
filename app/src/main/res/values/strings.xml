@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Take Notes</string>
+    <string name="create_sample_data">Create sample data</string>
+    <string name="delete_all_notes">Delete all notes</string>
+    <string name="are_you_sure_all">Are you sure you want to delete all notes?\nThis action cannot be undone.</string>
+    <string name="are_you_sure_one">Are you sure you want to delete this note?\nThis action cannot be undone.</string>
+    <string name="all_deleted">All notes deleted</string>
+    <string name="title_activity_editor">EditorActivity</string>
+    <string name="new_note">New note</string>
+    <string name="note_updated">Note updated</string>
+    <string name="action_delete">Delete</string>
+    <string name="note_deleted">Note deleted</string>
+    <string name="note">Note</string>
+    <string name="enter_note_here">Take a note here</string>
+    <string name="edit_note">Edit note</string>
+    <string name="about">About</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="credits">Created by Saad Husain. Special thanks to my friend Usman Khan for designing the app icon!\n\nThis app was made with the help of the Lynda.com course titled \'Building a Note-Taking App for Android\' by David Gassner.</string>
+</resources>
